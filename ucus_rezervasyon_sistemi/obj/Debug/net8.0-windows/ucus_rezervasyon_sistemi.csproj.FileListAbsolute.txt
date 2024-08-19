@@ -1,0 +1,17 @@
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\ucus_rezervasyon_sistemi\bin\Debug\net8.0-windows\ucus_rezervasyon_sistemi.exe
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\ucus_rezervasyon_sistemi\bin\Debug\net8.0-windows\ucus_rezervasyon_sistemi.deps.json
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\ucus_rezervasyon_sistemi\bin\Debug\net8.0-windows\ucus_rezervasyon_sistemi.runtimeconfig.json
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\ucus_rezervasyon_sistemi\bin\Debug\net8.0-windows\ucus_rezervasyon_sistemi.dll
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\ucus_rezervasyon_sistemi\bin\Debug\net8.0-windows\ucus_rezervasyon_sistemi.pdb
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\ucus_rezervasyon_sistemi\obj\Debug\net8.0-windows\ucus_rezervasyon_sistemi.Form1.resources
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\ucus_rezervasyon_sistemi\obj\Debug\net8.0-windows\ucus_rezervasyon_sistemi.Properties.Resources.resources
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\ucus_rezervasyon_sistemi\obj\Debug\net8.0-windows\ucus_rezervasyon_sistemi.csproj.GenerateResource.cache
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\ucus_rezervasyon_sistemi\obj\Debug\net8.0-windows\ucus_rezervasyon_sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\ucus_rezervasyon_sistemi\obj\Debug\net8.0-windows\ucus_rezervasyon_sistemi.AssemblyInfoInputs.cache
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\ucus_rezervasyon_sistemi\obj\Debug\net8.0-windows\ucus_rezervasyon_sistemi.AssemblyInfo.cs
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\ucus_rezervasyon_sistemi\obj\Debug\net8.0-windows\ucus_rezervasyon_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\ucus_rezervasyon_sistemi\obj\Debug\net8.0-windows\ucus_rezervasyon_sistemi.dll
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\ucus_rezervasyon_sistemi\obj\Debug\net8.0-windows\refint\ucus_rezervasyon_sistemi.dll
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\ucus_rezervasyon_sistemi\obj\Debug\net8.0-windows\ucus_rezervasyon_sistemi.pdb
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\ucus_rezervasyon_sistemi\obj\Debug\net8.0-windows\ucus_rezervasyon_sistemi.genruntimeconfig.cache
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\ucus_rezervasyon_sistemi\obj\Debug\net8.0-windows\ref\ucus_rezervasyon_sistemi.dll

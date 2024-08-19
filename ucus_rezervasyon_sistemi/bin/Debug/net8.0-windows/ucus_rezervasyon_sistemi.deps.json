@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ucus_rezervasyon_sistemi/1.0.0": {
+        "runtime": {
+          "ucus_rezervasyon_sistemi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ucus_rezervasyon_sistemi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
